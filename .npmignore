@@ -79,8 +79,7 @@ typings/
 .next
 
 # Nuxt.js build / generate output
-.nuxt
-dist
+.Nuxt
 
 # Gatsby files
 .cache/
@@ -104,4 +103,10 @@ dist
 .tern-port
 
 # custom
-lib/
+public/
+src/
+.babelrc
+.eslintrc.json
+.git
+.gitignore
+tsconfig.json
